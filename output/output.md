@@ -1,2 +1,2 @@
 # mslearn-ai-studio
-Explorando os Recursos de IA Generativa no Curso da DIO
+Aqui jáz as imagens que comprovas os resultados do projeto
